@@ -41,6 +41,7 @@
 *.su
 *.idb
 *.pdb
+*.php
 
 # Kernel Module Compile Results
 *.mod*
